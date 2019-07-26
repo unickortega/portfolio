@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Uelmar Ortega",
+    "occupation":"Full Stack Web Developer",
+    "description":"I'm a Laravel developer who also likes Vue.js",
+    "image":"profilepic.jpeg",
+    "bio":"I am a musician at heart, with an insatiable desire to learn, and a passion for building useful web applications. Early in my career as a web developer, I have had the priveledge to build complex web applications from the ground up using Laravel. Now, with the advent of front-end Javascript frameworks like Vue.js and others like it, I have learned to love and to utilize the Javascript programming language in order to build fast and effecient Single Page Applications.",
+    "contactmessage":"Do you think I am a good fit for your team? I'd love to hear from you. Kindly send me an email, text or email me.",
+    "email": "uelmarortega@gmail.com",
+    "phone": "09280918167",
+    "address":{
+      "street":"",
+      "city":"Cebu City",
+      "state":"Philippines",
+      "zip": "6015"
+    },
+    "website": "https://jobseed.net/profile/1",
+    "resumedownload":"https://jobseed.net/storage/documents/1_resume_1564126921.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/uelmar.ortega",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/uelmar-ortega-0b6432143/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/unickortega",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are programming skills that I am most comfortable.",
+    "education":[
+      {
+        "school":"Dipolog Medical Center College Foundation Inc.",
+        "degree":"Bachelor of Science in Information Technology - Major in Web Development",
+        "graduated":"May 2016",
+        "description":"A school that equips students to achieve successful careers worldwide."
+      }
+    ],
+    "work":[
+      {
+        "company":"Nexseed Inc.",
+        "title":"Full Stack Web Developer",
+        "years":"Jan 2018 - Present",
+        "description":"A japanese company situated in Cebu Business Park. Nexseed provides a variety of services namely teaching English and programming to Japanese students. Nexseed also provides Software Development and Maintainance services."
+      },
+      {
+        "company":"AguyIknow",
+        "title":"Web Developer",
+        "years":"July 2016 - December 2017",
+        "description":"A startup company located in Minglanilla City. AguyIknow is made up of web developers, 2D/3D animators making multimedia and e-learning contents for Martial Schools in Australia. AguyIknow also has talented software developers who are currently making some cool web applications to provide additional useful services to their clients."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Laravel",
+        "level":"95%"
+      },
+      {
+        "name":"Vue.js",
+        "level":"98%"
+      },
+      {
+        "name":"Javascript",
+        "level":"95%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"HTML5",
+        "level":"95%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"Docker",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"50%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"60%"
+      },
+      {
+        "name":"Web UI/UX Design",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Whitebelt.co",
+        "category":"Customer Relationship Management System",
+        "image":"whitebelt.png",
+        "url":"https://whitebelt.co/login"
+      },
+      {
+        "title":"Jobseed",
+        "category":"Job Search Software / Human Resource Tool",
+        "image":"jobseed.png",
+        "url":"https://jobseed.net/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I consider myself fortunate to have worked alongside Uelmar over the last 1 and half years at Nexseed. Benefiting from his sharing of programming experience.",
+        "user":"Jesray Garciano - Colleague"
+      }
+    ]
+  }
+}
