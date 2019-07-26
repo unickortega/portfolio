@@ -1,6 +1,7 @@
 {
   "name": "me-react",
   "version": "0.1.0",
+  "homepage": "https://unickortega.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
