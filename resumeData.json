@@ -31,6 +31,11 @@
         "name":"github",
         "url":"https://github.com/unickortega",
         "className":"fa fa-github"
+      },
+      {
+        "name":"jobseed",
+        "url":"https://jobseed.net/profile/1",
+        "icon_link": "https://jobseed.net/images/logo.ico"
       }
     ]
   },
