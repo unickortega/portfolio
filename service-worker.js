@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://unickortega.github.io/portfolio/precache-manifest.877629aff18e4fd428796d4ff28f689c.js"
+  "https://unickortega.github.io/portfolio/precache-manifest.1c0212ed08335fd6a32a60d2df04ba96.js"
 );
 
 self.addEventListener('message', (event) => {
