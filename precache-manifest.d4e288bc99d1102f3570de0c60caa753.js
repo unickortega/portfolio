@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfe51c9158ac5320f3d751ebadf67e9c",
+    "revision": "626b928d35a13d4cd752f54f075b57a7",
     "url": "https://unickortega.github.io/portfolio/index.html"
   },
   {
-    "revision": "dba318e0fcd1a051ff46",
+    "revision": "743d1edb10d276b5b945",
     "url": "https://unickortega.github.io/portfolio/static/css/main.5facb584.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://unickortega.github.io/portfolio/static/js/2.d68f1bfa.chunk.js"
   },
   {
-    "revision": "dba318e0fcd1a051ff46",
-    "url": "https://unickortega.github.io/portfolio/static/js/main.18aca2b9.chunk.js"
+    "revision": "743d1edb10d276b5b945",
+    "url": "https://unickortega.github.io/portfolio/static/js/main.63387335.chunk.js"
   },
   {
     "revision": "84f9c29f3544cb695ea7",
