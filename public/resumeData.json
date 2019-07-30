@@ -130,11 +130,15 @@
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "recommendations":{
+    "recommendations":[
       {
         "text":"I consider myself fortunate to have worked alongside Uelmar over the last 1 and half years at Nexseed. Benefiting from his sharing of programming experience.",
-        "user":"Jesray Garciano - Colleague"
+        "user":"Jesray Garciano - Colleague - Nexseed Inc."
+      },
+      {
+        "text":"I highly recommend Uelmar. In my view, he has all the qualifications required of full stack engineer. He has always pursued his own path, and enjoyed everything, involving his tasks.",
+        "user":"Reo Okumura - Senior Full Stack Web Developer - Nexseed Inc."
       }
     ]
   }
